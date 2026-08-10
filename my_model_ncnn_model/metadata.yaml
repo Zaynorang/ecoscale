@@ -1,0 +1,96 @@
+description: Ultralytics YOLO11n model trained on /content/data.yaml
+author: Ultralytics
+date: '2025-11-15T17:14:40.551592'
+version: 8.3.213
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: aki_Mobil
+  1: aki_Motor
+  2: aluminium
+  3: aluminium_foil
+  4: aquarium
+  5: baja_ringan
+  6: beling
+  7: besi
+  8: bodong_putih
+  9: body_motor
+  10: boncos
+  11: botol_kaca
+  12: botol_oli
+  13: botol_plastik
+  14: botol_plastik_bening
+  15: botol_sabun
+  16: botol_sampo
+  17: botol_yakult
+  18: box_motor
+  19: buku
+  20: casing_hp
+  21: cd
+  22: disket
+  23: dispenser
+  24: ember
+  25: emberan
+  26: frame_kompor
+  27: gallon
+  28: gelas_kaca
+  29: gelas_plastik
+  30: gelas_plastik_bening
+  31: gembok
+  32: helm
+  33: hvs
+  34: kabel
+  35: kabin
+  36: kaleng
+  37: kantong_kresek
+  38: kardus
+  39: kardus_kecil
+  40: karpet_talang
+  41: kaset_tape
+  42: kawat
+  43: kemasan_cd
+  44: keran
+  45: kertas_semen
+  46: keyboard
+  47: keyboard_piano
+  48: kipas
+  49: koran
+  50: kristal
+  51: kulkas
+  52: kursi_plastik
+  53: lapisan_kaca
+  54: majalah
+  55: mesin_cuci
+  56: monitor
+  57: nerf_gun
+  58: panci
+  59: paralon
+  60: pe_plastik
+  61: plastik_es
+  62: plastik_kiloan
+  63: plastik_laundry
+  64: plastik_obat
+  65: plastik_roll
+  66: printer
+  67: rantai
+  68: ricecooker
+  69: selang_plastik
+  70: seng
+  71: sepeda
+  72: tangki_motor
+  73: tembaga
+  74: toples_kue
+  75: tutup_galon
+  76: velg
+  77: wadah_nasi
+  78: wajan
+args:
+  batch: 1
+  half: false
+channels: 3
