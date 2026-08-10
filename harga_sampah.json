@@ -1,0 +1,202 @@
+{
+    "bodong_putih": {
+        "harga_per_kg": 2001,
+        "labels": [
+            "bodong_putih",
+            "botol_plastik_bening",
+            "gelas_plastik_bening",
+            "gallon"
+        ]
+    },
+    "aluminium": {
+        "harga_per_kg": 6500,
+        "labels": [
+            "aluminium",
+            "aluminium_foil"
+        ]
+    },
+    "besi": {
+        "harga_per_kg": 3200,
+        "labels": [
+            "besi",
+            "rantai",
+            "sepeda",
+            "gembok",
+            "velg"
+        ]
+    },
+    "boncos": {
+        "harga_per_kg": 500,
+        "labels": [
+            "boncos",
+            "kardus_kecil",
+            "kantong_kresek",
+            "botol_yakult",
+            "plastik_laundry"
+        ]
+    },
+    "beling": {
+        "harga_per_kg": 150,
+        "labels": [
+            "beling",
+            "botol_kaca",
+            "gelas_kaca",
+            "aquarium",
+            "lapisan_kaca"
+        ]
+    },
+    "emberan": {
+        "harga_per_kg": 1500,
+        "labels": [
+            "emberan",
+            "botol_sabun",
+            "botol_sampo",
+            "gelas_plastik",
+            "botol_plastik",
+            "ricecooker",
+            "dispenser",
+            "kipas",
+            "ember",
+            "kursi_plastik",
+            "helm",
+            "botol_oli",
+            "box_motor",
+            "keyboard",
+            "kemasan_cd",
+            "selang_plastik",
+            "keran",
+            "kabel",
+            "body_motor"
+        ]
+    },
+    "kabin": {
+        "harga_per_kg": 1500,
+        "labels": [
+            "kabin",
+            "casing_hp",
+            "frame_kompor",
+            "wadah_nasi",
+            "tangki_motor",
+            "baja_ringan",
+            "panci",
+            "wajan"
+        ]
+    },
+    "kaleng": {
+        "harga_per_kg": 1500,
+        "labels": [
+            "kaleng"
+        ]
+    },
+    "kardus": {
+        "harga_per_kg": 1200,
+        "labels": [
+            "kardus",
+            "kertas_semen",
+            "buku"
+        ]
+    },
+    "karpet_talang": {
+        "harga_per_kg": 1500,
+        "labels": [
+            "karpet_talang"
+        ]
+    },
+    "hvs": {
+        "harga_per_kg": 1000,
+        "labels": [
+            "hvs"
+        ]
+    },
+    "majalah": {
+        "harga_per_kg": 800,
+        "labels": [
+            "majalah"
+        ]
+    },
+    "pe_plastik": {
+        "harga_per_kg": 500,
+        "labels": [
+            "pe_plastik",
+            "plastik_obat",
+            "plastik_kiloan",
+            "plastik_es",
+            "plastik_roll"
+        ]
+    },
+    "seng": {
+        "harga_per_kg": 300,
+        "labels": [
+            "seng",
+            "kawat"
+        ]
+    },
+    "tembaga": {
+        "harga_per_kg": 25000,
+        "labels": [
+            "tembaga"
+        ]
+    },
+    "kristal": {
+        "harga_per_kg": 1800,
+        "labels": [
+            "kristal",
+            "toples_kue",
+            "cd"
+        ]
+    },
+    "koran": {
+        "harga_per_kg": 1500,
+        "labels": [
+            "koran"
+        ]
+    },
+    "tutup_galon": {
+        "harga_per_kg": 3250,
+        "labels": [
+            "tutup_galon"
+        ]
+    },
+    "aki_Mobil": {
+        "harga_per_kg": 40000,
+        "labels": [
+            "aki_Mobil"
+        ]
+    },
+    "aki_Motor": {
+        "harga_per_kg": 4000,
+        "labels": [
+            "aki_Motor"
+        ]
+    },
+    "mesin_cuci": {
+        "harga_per_kg": 35000,
+        "labels": [
+            "mesin_cuci"
+        ]
+    },
+    "monitor": {
+        "harga_per_kg": 8000,
+        "labels": [
+            "monitor"
+        ]
+    },
+    "kulkas": {
+        "harga_per_kg": 32000,
+        "labels": [
+            "kulkas"
+        ]
+    },
+    "impact": {
+        "harga_per_kg": 400,
+        "labels": [
+            "impact",
+            "keyboard_piano",
+            "disket",
+            "paralon",
+            "printer",
+            "nerf_gun",
+            "kaset_tape"
+        ]
+    }
+}
