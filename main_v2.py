@@ -81,7 +81,7 @@ input_numpad_str = ""
 kategori_edit_terpilih = None
 
 # ---------- HX711 ----------
-hx = HX711(dout=5, pd_sck=6)
+hx = HX711(dout=5, pd_sck=26)
 hx.setReferenceUnit(REFERENCE_UNIT)
 try: hx.autosetOffset()
 except Exception: pass
